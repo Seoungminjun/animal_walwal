@@ -9,6 +9,8 @@ public class Test {
 		new Dog().bark();
 		new Cat().jump();
 		new Tiger().attack();
+		new Snake().bebe();
+		new Monkey().woga();
 	}
 
 }
