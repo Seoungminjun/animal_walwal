@@ -11,6 +11,7 @@ public class Test {
 		new Tiger().attack();
 		new Snake().bebe();
 		new Monkey().woga();
+		new Lion().woo();
 	}
 
 }
