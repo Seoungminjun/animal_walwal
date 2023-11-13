@@ -8,7 +8,6 @@ public class Test {
 		
 		new Dog().bark();
 		new Cat().jump();
-		new Tiger().attack();
 	}
 
 }
